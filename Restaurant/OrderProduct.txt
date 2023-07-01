@@ -1,0 +1,2 @@
+Pear           12
+Apple          12

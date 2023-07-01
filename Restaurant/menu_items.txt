@@ -1,0 +1,10 @@
+Apple cake
+500
+Apple
+Sweet Apple cake
+30 21 5
+Apple juice
+200
+Apple
+Sweet apple juice
+10 10 0
